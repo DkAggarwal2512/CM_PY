@@ -1,0 +1,10 @@
+NAME,EMPID,SALARY,SEX
+ABC,0,0,male
+XYZ,1,10000,male
+PQR,2,10000,female
+STU,3,10000,male
+DSDS,4,10000,male
+CVSD,5,10000,female
+DCSD,6,10000,female
+DCX,7,10000,female
+DSCSD,0,NAN,male

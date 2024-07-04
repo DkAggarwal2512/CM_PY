@@ -1,0 +1,13 @@
+impport streamlit as st
+import pandas as pd
+
+df = pd.read_csv('mahi.csv')
+
+st.title("data")
+st.write(df)
+st.write(df.describe())
+
+
+a = plt.figure(figsize=(7,7)
+plt.plot(df['NAME'],df['SALARY'])
+st.plotpy()
