@@ -1,0 +1,10 @@
+import streamlit as st
+st.title('my frist ds app')
+st.header('dataset')
+st.subheader('first dataset')
+st.caption('Iris')
+st.write('Iris')
+st.code('for x in a')
+st.markdown('data')
+st.checkbox('agree to the terms')
+st.button('Submit')
